@@ -13,9 +13,9 @@ const Chatbot = () => {
   const lexV2 = new LexRuntimeV2({
     region: "us-east-1",
     credentials: {
-      accessKeyId: "ASIA6JJ3VYOFOB5TYYGL",
-      secretAccessKey: "YrIlSvikoYGZAXBWq/DiPU6ykdll+vdaAv5Gfr3Y",
-      sessionToken: "FwoGZXIvYXdzEK7//////////wEaDIkCmUBB88xuxVsXcCLAARCN4Wykv+7Q/cxO++g3p+r1l+YRYPZphVakW3Fi1Se54P78LSNW9x3+DFUQBjuya4sXELaJm6+H+RBkwmbc4Hdm7gIeccqHlTILvXsx00GrwMpgrIKR0RGON5R9Ng0f4HHW+NhAA1pHMnL0APldMyNTYKdktk2KXck2IJVKZw0Kau80+jMJPIOnAdYeHr5/OaRC3crcYueCHmVKS9yUa1v4Nkyg8J6hcTJFoiehQP70REvInZV6NHn0geoIwVpk0yid+7imBjItjIoaBNTYVIMKY/yMMTG5pfLchvhq4YZeuNpUESe6MgyyhSJcSF66ehb5Bs/6",
+      accessKeyId: "",
+      secretAccessKey: "",
+      sessionToken: "",
     },
   });
 
